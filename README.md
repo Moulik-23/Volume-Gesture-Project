@@ -75,7 +75,3 @@ Aspiring Data Scientist | Computer Vision Enthusiast
 Feel free to ⭐ the repo if you find it helpful!
 
 ```
-
----
-
-Let me know if you want a logo, demo video thumbnail, or contribution guidelines added too!
