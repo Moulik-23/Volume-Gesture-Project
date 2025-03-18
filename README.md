@@ -6,7 +6,7 @@
 
 This is a **Computer Vision project** that allows you to control your system volume using **hand gestures** in real-time via your webcam! It uses MediaPipe for hand tracking and OpenCV for image processing, along with the `pycaw` library to control system volume.
 
-https://user-images.githubusercontent.com/your_video_demo.mp4 *(Add a demo video or GIF here if available)*
+
 
 ## 📁 Project Structure
 
