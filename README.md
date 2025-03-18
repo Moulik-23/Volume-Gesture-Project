@@ -68,7 +68,7 @@ Make sure your webcam is working and accessible.
 
 **Moulik **  
 Aspiring Data Scientist | Computer Vision Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/your-link) • [Portfolio](https://your-portfolio.com) • [Email](mailto:your.email@example.com)
+[LinkedIn](www.linkedin.com/in/moulik-zinzala-2749752b7) • [Portfolio](https://portfolio-web-site-black.vercel.app/index.html) • [Email](mailto:moulikzinzala912@gmail.com)
 
 ---
 
